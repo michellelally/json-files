@@ -25,6 +25,7 @@
                 {
                     "allowed": "Outdoor dining is permitted",
                     "vaccination": "No proof of vaccination required",
+                    "proof": "Photo identification",
                     "tableLimit": "A limit of 6 people aged 13 and over or 15 people including children aged 12 and over per table",
                     "faceCovering": "Face coverings must be worn when not sitting at the table",
                     "timeLimit": "No time limit",
