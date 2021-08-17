@@ -1,0 +1,36 @@
+{
+    "restrictions": 
+        {
+            "travel": [
+                {
+                    "allowed": "International travel is permitted",
+                    "quarantine": "Only passengers travelling from red zone countries will have to quarantine on arrival"
+                }
+            ],
+
+            "indoorDining": [
+                {
+                    "allowed": "Indoor dining is permitted under certain conditions",
+                    "vaccination": "Each customer must present proof of vaccination",
+                    "proof": "EU Covid Certificate, HSE Vaccination Record with matching photo identification",
+                    "tableLimit": "6 people aged 13 and over or 15 people including children aged 12 and over",
+                    "faceCovering": "Must be worn when not sitting at the table",
+                    "timeLimit": "No time limit",
+                    "liveMusic": "Not permitted",
+                    "contactTracing": "Details must be give by one group member for contact tracing"
+                }
+            ],
+
+            "outdoorDining": [
+                {
+                    "allowed": "Outdoor dining is permitted",
+                    "vaccination": "No proof of vaccination required",
+                    "tableLimit": "6 people aged 13 and over or 15 people including children aged 12 and over",
+                    "faceCovering": "Must be worn when not sitting at the table",
+                    "timeLimit": "No time limit",
+                    "liveMusic": "Not permitted",
+                    "contactTracing": "Details must be give by one group member for contact tracing"
+                }
+            ]
+        }
+}
