@@ -1,0 +1,23 @@
+{
+    "categories": 
+        {
+            "fullTime":
+                {
+                    "recommendedDaily": "8 hours",
+                    "recommendedWeekly": "40 hours",
+                    "limit": "48 hours"
+                },
+            "partTime":
+                {
+                    "recommendedDaily": "6-10 hours",
+                    "recommendedWeekly": "18-20 hours",
+                    "limit": "48 hours"
+                },
+            "underEighteen":
+                {
+                    "recommendedDaily": "6-7 hours",
+                    "recommendedWeekly": "30 hours",
+                    "limit": "35 hours"
+                }
+        }
+}
