@@ -1,14 +1,13 @@
 {
     "restrictions": 
         {
-            "travel": [
+            "travel": 
                 {
                     "allowed": "International travel is permitted",
                     "quarantine": "Only passengers travelling from red zone countries will have to quarantine on arrival"
-                }
-            ],
+                },
 
-            "indoorDining": [
+            "indoorDining": 
                 {
                     "allowed": "Indoor dining is permitted under certain conditions",
                     "vaccination": "Each customer must present proof of vaccination",
@@ -18,10 +17,9 @@
                     "timeLimit": "No time limit",
                     "liveMusic": "Live music not permitted",
                     "contactTracing": "Details must be give by one group member for contact tracing"
-                }
-            ],
+                },
 
-            "outdoorDining": [
+            "outdoorDining": 
                 {
                     "allowed": "Outdoor dining is permitted",
                     "vaccination": "No proof of vaccination required",
@@ -32,6 +30,6 @@
                     "liveMusic": "Live music not permitted",
                     "contactTracing": "Details must be give by one group member for contact tracing"
                 }
-            ]
+            
         }
 }
